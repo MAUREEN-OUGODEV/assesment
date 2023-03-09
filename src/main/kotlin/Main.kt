@@ -8,9 +8,9 @@ fun main() {
     println(numbers.subtarction(22))
     println(numbers.multiple(45))
 }
-//fun words(nameone: String,nametwo: String): {
-  //  return first
-//}
+fun words(nameone: String,nametwo: String):
+}
+
 
 
 fun intergers(age:Array<Double>):Array<Double> {
@@ -27,7 +27,9 @@ fun split(name:String){
 
 }
 
+fun arrayStrings(){
 
+}
 
 class Calculator(var addition: Int,var subtraction: Int, var division: Int, var multiplication: Int ){
     fun add( addition: Int) :Int{
